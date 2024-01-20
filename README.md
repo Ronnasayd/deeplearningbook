@@ -1,208 +1,208 @@
 # Sumário
 
-- [Capítulo 1 – Deep Learning e a Tempestade Perfeita](#capítulo-1-–-deep-learning-e-a-tempestade-perfeita)
+- [Capítulo 1 – Deep Learning e a Tempestade Perfeita](#capitulo-1---deep-learning-e-a-tempestade-perfeita)
 
-- [Capítulo 2 – Uma Breve História das Redes Neurais Artificiais](#capítulo-2-–-uma-breve-história-das-redes-neurais-artificiais)
+- [Capítulo 2 – Uma Breve História das Redes Neurais Artificiais](#capitulo-2---uma-breve-historia-das-redes-neurais-artificiais)
 
-- [Capítulo 3 – O Que São Redes Neurais Artificiais Profundas ou Deep Learning?](#capítulo-3-–-o-que-são-redes-neurais-artificiais-profundas-ou-deep-learning?)
+- [Capítulo 3 – O Que São Redes Neurais Artificiais Profundas ou Deep Learning?](#capitulo-3---o-que-sao-redes-neurais-artificiais-profundas-ou-deep-learning?)
 
-- [Capítulo 4 – O Neurônio, Biológico e Matemático](#capítulo-4-–-o-neurônio,-biológico-e-matemático)
+- [Capítulo 4 – O Neurônio, Biológico e Matemático](#capitulo-4---o-neuronio,-biologico-e-matematico)
 
-- [Capítulo 5 – Usando Redes Neurais Para Reconhecer Dígitos Manuscritos](#capítulo-5-–-usando-redes-neurais-para-reconhecer-dígitos-manuscritos)
+- [Capítulo 5 – Usando Redes Neurais Para Reconhecer Dígitos Manuscritos](#capitulo-5---usando-redes-neurais-para-reconhecer-digitos-manuscritos)
 
-- [Capítulo 6 – O Perceptron – Parte 1](#capítulo-6-–-o-perceptron-–-parte-1)
+- [Capítulo 6 – O Perceptron – Parte 1](#capitulo-6---o-perceptron---parte-1)
 
-- [Capítulo 7 – O Perceptron – Parte 2](#capítulo-7-–-o-perceptron-–-parte-2)
+- [Capítulo 7 – O Perceptron – Parte 2](#capitulo-7---o-perceptron---parte-2)
 
-- [Capítulo 8 – Função de Ativação](#capítulo-8-–-função-de-ativação)
+- [Capítulo 8 – Função de Ativação](#capitulo-8---funcao-de-ativacao)
 
-- [Capítulo 9 – A Arquitetura das Redes Neurais](#capítulo-9-–-a-arquitetura-das-redes-neurais)
+- [Capítulo 9 – A Arquitetura das Redes Neurais](#capitulo-9---a-arquitetura-das-redes-neurais)
 
-- [Capítulo 10 – As 10 Principais Arquiteturas de Redes Neurais](#capítulo-10-–-as-10-principais-arquiteturas-de-redes-neurais)
+- [Capítulo 10 – As 10 Principais Arquiteturas de Redes Neurais](#capitulo-10---as-10-principais-arquiteturas-de-redes-neurais)
 
-- [Capítulo 11 – Design De Uma Rede Neural Para Reconhecimento de Dígitos](#capítulo-11-–-design-de-uma-rede-neural-para-reconhecimento-de-dígitos)
+- [Capítulo 11 – Design De Uma Rede Neural Para Reconhecimento de Dígitos](#capitulo-11---design-de-uma-rede-neural-para-reconhecimento-de-digitos)
 
-- [Capítulo 12 – Aprendizado Com a Descida do Gradiente](#capítulo-12-–-aprendizado-com-a-descida-do-gradiente)
+- [Capítulo 12 – Aprendizado Com a Descida do Gradiente](#capitulo-12---aprendizado-com-a-descida-do-gradiente)
 
-- [Capítulo 13 – Construindo Uma Rede Neural Com Linguagem Python](#capítulo-13-–-construindo-uma-rede-neural-com-linguagem-python)
+- [Capítulo 13 – Construindo Uma Rede Neural Com Linguagem Python](#capitulo-13---construindo-uma-rede-neural-com-linguagem-python)
 
-- [Capítulo 14 – Algoritmo Backpropagation Parte 1 – Grafos Computacionais e Chain Rule](#capítulo-14-–-algoritmo-backpropagation-parte-1-–-grafos-computacionais-e-chain-rule)
+- [Capítulo 14 – Algoritmo Backpropagation Parte 1 – Grafos Computacionais e Chain Rule](#capitulo-14---algoritmo-backpropagation-parte-1---grafos-computacionais-e-chain-rule)
 
-- [Capítulo 15 – Algoritmo Backpropagation Parte 2 – Treinamento de Redes Neurais](#capítulo-15-–-algoritmo-backpropagation-parte-2-–-treinamento-de-redes-neurais)
+- [Capítulo 15 – Algoritmo Backpropagation Parte 2 – Treinamento de Redes Neurais](#capitulo-15---algoritmo-backpropagation-parte-2---treinamento-de-redes-neurais)
 
-- [Capítulo 16 – Algoritmo Backpropagation em Python](#capítulo-16-–-algoritmo-backpropagation-em-python)
+- [Capítulo 16 – Algoritmo Backpropagation em Python](#capitulo-16---algoritmo-backpropagation-em-python)
 
-- [Capítulo 17 – Cross-Entropy Cost Function](#capítulo-17-–-cross-entropy-cost-function)
+- [Capítulo 17 – Cross-Entropy Cost Function](#capitulo-17---cross-entropy-cost-function)
 
-- [Capítulo 18 – Entropia Cruzada Para Quantificar a Diferença Entre Duas Distribuições de Probabilidade](#capítulo-18-–-entropia-cruzada-para-quantificar-a-diferença-entre-duas-distribuições-de-probabilidade)
+- [Capítulo 18 – Entropia Cruzada Para Quantificar a Diferença Entre Duas Distribuições de Probabilidade](#capitulo-18---entropia-cruzada-para-quantificar-a-diferenca-entre-duas-distribuicoes-de-probabilidade)
 
-- [Capítulo 19 – Overfitting e Regularização – Parte 1](#capítulo-19-–-overfitting-e-regularização-–-parte-1)
+- [Capítulo 19 – Overfitting e Regularização – Parte 1](#capitulo-19---overfitting-e-regularizacao---parte-1)
 
-- [Capítulo 20 – Overfitting e Regularização – Parte 2](#capítulo-20-–-overfitting-e-regularização-–-parte-2)
+- [Capítulo 20 – Overfitting e Regularização – Parte 2](#capitulo-20---overfitting-e-regularizacao---parte-2)
 
-- [Capítulo 21 – Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting?](#capítulo-21-–-afinal,-por-que-a-regularização-ajuda-a-reduzir-o-overfitting?)
+- [Capítulo 21 – Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting?](#capitulo-21---afinal,-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting?)
 
-- [Capítulo 22 – Regularização L1](#capítulo-22-–-regularização-l1)
+- [Capítulo 22 – Regularização L1](#capitulo-22---regularizacao-l1)
 
-- [Capítulo 23 – Como Funciona o Dropout?](#capítulo-23-–-como-funciona-o-dropout?)
+- [Capítulo 23 – Como Funciona o Dropout?](#capitulo-23---como-funciona-o-dropout?)
 
-- [Capítulo 24 – Expandir Artificialmente os Dados de Treinamento](#capítulo-24-–-expandir-artificialmente-os-dados-de-treinamento)
+- [Capítulo 24 – Expandir Artificialmente os Dados de Treinamento](#capitulo-24---expandir-artificialmente-os-dados-de-treinamento)
 
-- [Capítulo 25 – Inicialização de Pesos em Redes Neurais Artificiais](#capítulo-25-–-inicialização-de-pesos-em-redes-neurais-artificiais)
+- [Capítulo 25 – Inicialização de Pesos em Redes Neurais Artificiais](#capitulo-25---inicializacao-de-pesos-em-redes-neurais-artificiais)
 
-- [Capítulo 26 – Como Escolher os Hiperparâmetros de Uma Rede Neural](#capítulo-26-–-como-escolher-os-hiperparâmetros-de-uma-rede-neural)
+- [Capítulo 26 – Como Escolher os Hiperparâmetros de Uma Rede Neural](#capitulo-26---como-escolher-os-hiperparametros-de-uma-rede-neural)
 
-- [Capítulo 27 – A Taxa de Aprendizado de Uma Rede Neural](#capítulo-27-–-a-taxa-de-aprendizado-de-uma-rede-neural)
+- [Capítulo 27 – A Taxa de Aprendizado de Uma Rede Neural](#capitulo-27---a-taxa-de-aprendizado-de-uma-rede-neural)
 
-- [Capítulo 28 – Usando Early Stopping Para Definir o Número de Épocas de Treinamento](#capítulo-28-–-usando-early-stopping-para-definir-o-número-de-épocas-de-treinamento)
+- [Capítulo 28 – Usando Early Stopping Para Definir o Número de Épocas de Treinamento](#capitulo-28---usando-early-stopping-para-definir-o-numero-de-epocas-de-treinamento)
 
-- [Capítulo 29 – Definindo o Tamanho do Mini-Batch](#capítulo-29-–-definindo-o-tamanho-do-mini-batch)
+- [Capítulo 29 – Definindo o Tamanho do Mini-Batch](#capitulo-29---definindo-o-tamanho-do-mini-batch)
 
-- [Capítulo 30 – Variações do Stochastic Gradient Descent – Hessian Optimization e Momentum](#capítulo-30-–-variações-do-stochastic-gradient-descent-–-hessian-optimization-e-momentum)
+- [Capítulo 30 – Variações do Stochastic Gradient Descent – Hessian Optimization e Momentum](#capitulo-30---variacoes-do-stochastic-gradient-descent---hessian-optimization-e-momentum)
 
-- [Capítulo 31 – As Redes Neurais Artificiais Podem Computar Qualquer Função?](#capítulo-31-–-as-redes-neurais-artificiais-podem-computar-qualquer-função?)
+- [Capítulo 31 – As Redes Neurais Artificiais Podem Computar Qualquer Função?](#capitulo-31---as-redes-neurais-artificiais-podem-computar-qualquer-funcao?)
 
-- [Capítulo 32 – Como Uma Rede Neural Artificial Encontra a Aproximação de Uma Função](#capítulo-32-–-como-uma-rede-neural-artificial-encontra-a-aproximação-de-uma-função)
+- [Capítulo 32 – Como Uma Rede Neural Artificial Encontra a Aproximação de Uma Função](#capitulo-32---como-uma-rede-neural-artificial-encontra-a-aproximacao-de-uma-funcao)
 
-- [Capítulo 33 – Por que as Redes Neurais Profundas São Difíceis de Treinar?](#capítulo-33-–-por-que-as-redes-neurais-profundas-são-difíceis-de-treinar?)
+- [Capítulo 33 – Por que as Redes Neurais Profundas São Difíceis de Treinar?](#capitulo-33---por-que-as-redes-neurais-profundas-sao-dificeis-de-treinar?)
 
-- [Capítulo 34 – O Problema da Dissipação do Gradiente](#capítulo-34-–-o-problema-da-dissipação-do-gradiente)
+- [Capítulo 34 – O Problema da Dissipação do Gradiente](#capitulo-34---o-problema-da-dissipacao-do-gradiente)
 
-- [Capítulo 35 – A Matemática do Problema de Dissipação do Gradiente em Deep Learning](#capítulo-35-–-a-matemática-do-problema-de-dissipação-do-gradiente-em-deep-learning)
+- [Capítulo 35 – A Matemática do Problema de Dissipação do Gradiente em Deep Learning](#capitulo-35---a-matematica-do-problema-de-dissipacao-do-gradiente-em-deep-learning)
 
-- [Capítulo 36 – Outros Problemas com o Gradiente em Redes Neurais Artificiais](#capítulo-36-–-outros-problemas-com-o-gradiente-em-redes-neurais-artificiais)
+- [Capítulo 36 – Outros Problemas com o Gradiente em Redes Neurais Artificiais](#capitulo-36---outros-problemas-com-o-gradiente-em-redes-neurais-artificiais)
 
-- [Capítulo 37 – O Efeito do Batch Size no Treinamento de Redes Neurais Artificiais](#capítulo-37-–-o-efeito-do-batch-size-no-treinamento-de-redes-neurais-artificiais)
+- [Capítulo 37 – O Efeito do Batch Size no Treinamento de Redes Neurais Artificiais](#capitulo-37---o-efeito-do-batch-size-no-treinamento-de-redes-neurais-artificiais)
 
-- [Capítulo 38 – O Efeito da Taxa de Aprendizagem no Treinamento de Redes Neurais Artificiais](#capítulo-38-–-o-efeito-da-taxa-de-aprendizagem-no-treinamento-de-redes-neurais-artificiais)
+- [Capítulo 38 – O Efeito da Taxa de Aprendizagem no Treinamento de Redes Neurais Artificiais](#capitulo-38---o-efeito-da-taxa-de-aprendizagem-no-treinamento-de-redes-neurais-artificiais)
 
-- [Capítulo 39 – Relação Entre o Tamanho do Lote e o Cálculo do Gradiente](#capítulo-39-–-relação-entre-o-tamanho-do-lote-e-o-cálculo-do-gradiente)
+- [Capítulo 39 – Relação Entre o Tamanho do Lote e o Cálculo do Gradiente](#capitulo-39---relacao-entre-o-tamanho-do-lote-e-o-calculo-do-gradiente)
 
-- [Capítulo 40 – Introdução às Redes Neurais Convolucionais](#capítulo-40-–-introdução-às-redes-neurais-convolucionais)
+- [Capítulo 40 – Introdução às Redes Neurais Convolucionais](#capitulo-40---introducao-as-redes-neurais-convolucionais)
 
-- [Capítulo 41 – Campos Receptivos Locais em Redes Neurais Convolucionais](#capítulo-41-–-campos-receptivos-locais-em-redes-neurais-convolucionais)
+- [Capítulo 41 – Campos Receptivos Locais em Redes Neurais Convolucionais](#capitulo-41---campos-receptivos-locais-em-redes-neurais-convolucionais)
 
-- [Capítulo 42 – Compartilhamento de Pesos em Redes Neurais Convolucionais](#capítulo-42-–-compartilhamento-de-pesos-em-redes-neurais-convolucionais)
+- [Capítulo 42 – Compartilhamento de Pesos em Redes Neurais Convolucionais](#capitulo-42---compartilhamento-de-pesos-em-redes-neurais-convolucionais)
 
-- [Capítulo 43 – Camadas de Pooling em Redes Neurais Convolucionais](#capítulo-43-–-camadas-de-pooling-em-redes-neurais-convolucionais)
+- [Capítulo 43 – Camadas de Pooling em Redes Neurais Convolucionais](#capitulo-43---camadas-de-pooling-em-redes-neurais-convolucionais)
 
-- [Capítulo 44 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 1](#capítulo-44-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-1)
+- [Capítulo 44 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 1](#capitulo-44---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-1)
 
-- [Capítulo 45 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 2](#capítulo-45-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-2)
+- [Capítulo 45 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 2](#capitulo-45---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-2)
 
-- [Capítulo 46 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 3](#capítulo-46-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-3)
+- [Capítulo 46 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 3](#capitulo-46---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-3)
 
-- [Capítulo 47 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 4](#capítulo-47-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-4)
+- [Capítulo 47 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 4](#capitulo-47---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-4)
 
-- [Capítulo 48 – Redes Neurais Recorrentes](#capítulo-48-–-redes-neurais-recorrentes)
+- [Capítulo 48 – Redes Neurais Recorrentes](#capitulo-48---redes-neurais-recorrentes)
 
-- [Capítulo 49 – A Matemática do Backpropagation Through Time (BPTT)](#capítulo-49-–-a-matemática-do-backpropagation-through-time-(bptt))
+- [Capítulo 49 – A Matemática do Backpropagation Through Time (BPTT)](#capitulo-49---a-matematica-do-backpropagation-through-time-(bptt))
 
-- [Capítulo 50 – A Matemática da Dissipação do Gradiente e Aplicações das RNNs](#capítulo-50-–-a-matemática-da-dissipação-do-gradiente-e-aplicações-das-rnns)
+- [Capítulo 50 – A Matemática da Dissipação do Gradiente e Aplicações das RNNs](#capitulo-50---a-matematica-da-dissipacao-do-gradiente-e-aplicacoes-das-rnns)
 
-- [Capítulo 51 – Arquitetura de Redes Neurais Long Short Term Memory (LSTM)](#capítulo-51-–-arquitetura-de-redes-neurais-long-short-term-memory-(lstm))
+- [Capítulo 51 – Arquitetura de Redes Neurais Long Short Term Memory (LSTM)](#capitulo-51---arquitetura-de-redes-neurais-long-short-term-memory-(lstm))
 
-- [Capítulo 52 – Arquitetura de Redes Neurais Gated Recurrent Unit (GRU)](#capítulo-52-–-arquitetura-de-redes-neurais-gated-recurrent-unit-(gru))
+- [Capítulo 52 – Arquitetura de Redes Neurais Gated Recurrent Unit (GRU)](#capitulo-52---arquitetura-de-redes-neurais-gated-recurrent-unit-(gru))
 
-- [Capítulo 53 – Matemática na GRU, Dissipação e Clipping do Gradiente](#capítulo-53-–-matemática-na-gru,-dissipação-e-clipping-do-gradiente)
+- [Capítulo 53 – Matemática na GRU, Dissipação e Clipping do Gradiente](#capitulo-53---matematica-na-gru,-dissipacao-e-clipping-do-gradiente)
 
-- [Capítulo 54 – Introdução às Redes Adversárias Generativas (GANs – Generative Adversarial Networks)](#capítulo-54-–-introdução-às-redes-adversárias-generativas-(gans-–-generative-adversarial-networks))
+- [Capítulo 54 – Introdução às Redes Adversárias Generativas (GANs – Generative Adversarial Networks)](#capitulo-54---introducao-as-redes-adversarias-generativas-(gans---generative-adversarial-networks))
 
-- [Capítulo 55 – Geração de Variáveis Aleatórias – Uma das Bases dos Modelos Generativos em GANs (Generative Adversarial Networks)](#capítulo-55-–-geração-de-variáveis-aleatórias-–-uma-das-bases-dos-modelos-generativos-em-gans-(generative-adversarial-networks))
+- [Capítulo 55 – Geração de Variáveis Aleatórias – Uma das Bases dos Modelos Generativos em GANs (Generative Adversarial Networks)](#capitulo-55---geracao-de-variaveis-aleatorias---uma-das-bases-dos-modelos-generativos-em-gans-(generative-adversarial-networks))
 
-- [Capítulo 56 – Modelos Generativos – O Diferencial das GANs (Generative Adversarial Networks)](#capítulo-56-–-modelos-generativos-–-o-diferencial-das-gans-(generative-adversarial-networks))
+- [Capítulo 56 – Modelos Generativos – O Diferencial das GANs (Generative Adversarial Networks)](#capitulo-56---modelos-generativos---o-diferencial-das-gans-(generative-adversarial-networks))
 
-- [Capítulo 57 – Os Detalhes Matemáticos das GANs (Generative Adversarial Networks)](#capítulo-57-–-os-detalhes-matemáticos-das-gans-(generative-adversarial-networks))
+- [Capítulo 57 – Os Detalhes Matemáticos das GANs (Generative Adversarial Networks)](#capitulo-57---os-detalhes-matematicos-das-gans-(generative-adversarial-networks))
 
-- [Capítulo 58 – Introdução aos Autoencoders](#capítulo-58-–-introdução-aos-autoencoders)
+- [Capítulo 58 – Introdução aos Autoencoders](#capitulo-58---introducao-aos-autoencoders)
 
-- [Capítulo 59 – Principais Tipos de Redes Neurais Artificiais Autoencoders](#capítulo-59-–-principais-tipos-de-redes-neurais-artificiais-autoencoders)
+- [Capítulo 59 – Principais Tipos de Redes Neurais Artificiais Autoencoders](#capitulo-59---principais-tipos-de-redes-neurais-artificiais-autoencoders)
 
-- [Capítulo 60 – Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização](#capítulo-60-–-variational-autoencoders-(vaes)-–-definição,-redução-de-dimensionalidade,-espaço-latente-e-regularização)
+- [Capítulo 60 – Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização](#capitulo-60---variational-autoencoders-(vaes)---definicao,-reducao-de-dimensionalidade,-espaco-latente-e-regularizacao)
 
-- [Capítulo 61 – A Matemática dos Variational Autoencoders (VAEs)](#capítulo-61-–-a-matemática-dos-variational-autoencoders-(vaes))
+- [Capítulo 61 – A Matemática dos Variational Autoencoders (VAEs)](#capitulo-61---a-matematica-dos-variational-autoencoders-(vaes))
 
-- [Capítulo 62 – O Que é Aprendizagem Por Reforço?](#capítulo-62-–-o-que-é-aprendizagem-por-reforço?)
+- [Capítulo 62 – O Que é Aprendizagem Por Reforço?](#capitulo-62---o-que-e-aprendizagem-por-reforco?)
 
-- [Capítulo 63 – Aplicações da Aprendizagem Por Reforço no Mundo Real](#capítulo-63-–-aplicações-da-aprendizagem-por-reforço-no-mundo-real)
+- [Capítulo 63 – Aplicações da Aprendizagem Por Reforço no Mundo Real](#capitulo-63---aplicacoes-da-aprendizagem-por-reforco-no-mundo-real)
 
-- [Capítulo 64 – Componentes do Aprendizado Por Reforço (Reinforcement Learning)](#capítulo-64-–-componentes-do-aprendizado-por-reforço-(reinforcement-learning))
+- [Capítulo 64 – Componentes do Aprendizado Por Reforço (Reinforcement Learning)](#capitulo-64---componentes-do-aprendizado-por-reforco-(reinforcement-learning))
 
-- [Capítulo 65 – Distribuições de Probabilidade, Redes Neurais e Reinforcement Learning](#capítulo-65-–-distribuições-de-probabilidade,-redes-neurais-e-reinforcement-learning)
+- [Capítulo 65 – Distribuições de Probabilidade, Redes Neurais e Reinforcement Learning](#capitulo-65---distribuicoes-de-probabilidade,-redes-neurais-e-reinforcement-learning)
 
-- [Capítulo 66 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Parte 1](#capítulo-66-–-algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning-–-parte-1)
+- [Capítulo 66 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Parte 1](#capitulo-66---algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning---parte-1)
 
-- [Capítulo 67 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Parte 2](#capítulo-67-–-algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning-–-parte-2)
+- [Capítulo 67 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Parte 2](#capitulo-67---algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning---parte-2)
 
-- [Capítulo 68 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Q-Learning](#capítulo-68-–-algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning-–-q-learning)
+- [Capítulo 68 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Q-Learning](#capitulo-68---algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning---q-learning)
 
-- [Capítulo 69 – Treinando Um Agente Baseado em IA Para Jogar Box no Atari Usando Linguagem Python](#capítulo-69-–-treinando-um-agente-baseado-em-ia-para-jogar-box-no-atari-usando-linguagem-python)
+- [Capítulo 69 – Treinando Um Agente Baseado em IA Para Jogar Box no Atari Usando Linguagem Python](#capitulo-69---treinando-um-agente-baseado-em-ia-para-jogar-box-no-atari-usando-linguagem-python)
 
-- [Capítulo 70 – Deep Q-Network e Processos de Decisão de Markov](#capítulo-70-–-deep-q-network-e-processos-de-decisão-de-markov)
+- [Capítulo 70 – Deep Q-Network e Processos de Decisão de Markov](#capitulo-70---deep-q-network-e-processos-de-decisao-de-markov)
 
-- [Capítulo 71 – Inteligência Artificial Para Jogar Blackjack – Parte 1](#capítulo-71-–-inteligência-artificial-para-jogar-blackjack-–-parte-1)
+- [Capítulo 71 – Inteligência Artificial Para Jogar Blackjack – Parte 1](#capitulo-71---inteligencia-artificial-para-jogar-blackjack---parte-1)
 
-- [Capítulo 72 – Inteligência Artificial Para Jogar Blackjack – Parte 2](#capítulo-72-–-inteligência-artificial-para-jogar-blackjack-–-parte-2)
+- [Capítulo 72 – Inteligência Artificial Para Jogar Blackjack – Parte 2](#capitulo-72---inteligencia-artificial-para-jogar-blackjack---parte-2)
 
-- [Capítulo 73 – Inteligência Artificial Para Jogar Blackjack – Parte 3](#capítulo-73-–-inteligência-artificial-para-jogar-blackjack-–-parte-3)
+- [Capítulo 73 – Inteligência Artificial Para Jogar Blackjack – Parte 3](#capitulo-73---inteligencia-artificial-para-jogar-blackjack---parte-3)
 
-- [Capítulo 74 – Inteligência Artificial Para Jogar Blackjack – Parte 4](#capítulo-74-–-inteligência-artificial-para-jogar-blackjack-–-parte-4)
+- [Capítulo 74 – Inteligência Artificial Para Jogar Blackjack – Parte 4](#capitulo-74---inteligencia-artificial-para-jogar-blackjack---parte-4)
 
-- [Capítulo 75 – Inteligência Artificial Para Jogar Blackjack – Parte 5](#capítulo-75-–-inteligência-artificial-para-jogar-blackjack-–-parte-5)
+- [Capítulo 75 – Inteligência Artificial Para Jogar Blackjack – Parte 5](#capitulo-75---inteligencia-artificial-para-jogar-blackjack---parte-5)
 
-- [Capítulo 76 – O Que é BERT (Bidirectional Encoder Representations from Transformers)?](#capítulo-76-–-o-que-é-bert-(bidirectional-encoder-representations-from-transformers)?)
+- [Capítulo 76 – O Que é BERT (Bidirectional Encoder Representations from Transformers)?](#capitulo-76---o-que-e-bert-(bidirectional-encoder-representations-from-transformers)?)
 
-- [Capítulo 77 – Modelo BERT Para Processamento de Linguagem Natural](#capítulo-77-–-modelo-bert-para-processamento-de-linguagem-natural)
+- [Capítulo 77 – Modelo BERT Para Processamento de Linguagem Natural](#capitulo-77---modelo-bert-para-processamento-de-linguagem-natural)
 
-- [Capítulo 78 – Modelo BERT – Previsão da Próxima Frase](#capítulo-78-–-modelo-bert-–-previsão-da-próxima-frase)
+- [Capítulo 78 – Modelo BERT – Previsão da Próxima Frase](#capitulo-78---modelo-bert---previsao-da-proxima-frase)
 
-- [Capítulo 79 – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)](#capítulo-79-–-conhecendo-o-modelo-gpt-3-(generative-pre-trained-transformer))
+- [Capítulo 79 – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)](#capitulo-79---conhecendo-o-modelo-gpt-3-(generative-pre-trained-transformer))
 
-- [Capítulo 80 – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)](#capítulo-80-–-melhorando-a-compreensão-da-linguagem-por-meio-do-pré-treinamento-generativo-(gpt-1))
+- [Capítulo 80 – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)](#capitulo-80---melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-(gpt-1))
 
-- [Capítulo 81 – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)](#capítulo-81-–-modelos-de-linguagem-como-tarefas-não-supervisionadas-(gpt-2))
+- [Capítulo 81 – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)](#capitulo-81---modelos-de-linguagem-como-tarefas-nao-supervisionadas-(gpt-2))
 
-- [Capítulo 82 – GPT-3 – Características e Limitações](#capítulo-82-–-gpt-3-–-características-e-limitações)
+- [Capítulo 82 – GPT-3 – Características e Limitações](#capitulo-82---gpt-3---caracteristicas-e-limitacoes)
 
-- [Capítulo 83 – Liquid Neural Network – Rede Neural Líquida](#capítulo-83-–-liquid-neural-network-–-rede-neural-líquida)
+- [Capítulo 83 – Liquid Neural Network – Rede Neural Líquida](#capitulo-83---liquid-neural-network---rede-neural-liquida)
 
-- [Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens](#capítulo-84-–-clip-(contrastive-language-image-pre-training):-conectando-texto-e-imagens)
+- [Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens](#capitulo-84---clip-(contrastive-language-image-pre-training):-conectando-texto-e-imagens)
 
-- [Capítulo 85 – Transformadores – O Estado da Arte em Processamento de Linguagem Natural](#capítulo-85-–-transformadores-–-o-estado-da-arte-em-processamento-de-linguagem-natural)
+- [Capítulo 85 – Transformadores – O Estado da Arte em Processamento de Linguagem Natural](#capitulo-85---transformadores---o-estado-da-arte-em-processamento-de-linguagem-natural)
 
-- [Capítulo 86 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 1](#capítulo-86-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-1)
+- [Capítulo 86 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 1](#capitulo-86---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-1)
 
-- [Capítulo 87 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 2](#capítulo-87-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-2)
+- [Capítulo 87 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 2](#capitulo-87---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-2)
 
-- [Capítulo 88 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 3](#capítulo-88-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-3)
+- [Capítulo 88 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 3](#capitulo-88---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-3)
 
-- [Capítulo 89 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 4](#capítulo-89-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-4)
+- [Capítulo 89 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 4](#capitulo-89---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-4)
 
-- [Capítulo 90 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 5](#capítulo-90-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-5)
+- [Capítulo 90 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 5](#capitulo-90---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-5)
 
-- [Capítulo 91 – Machine Learning – Guia Definitivo – Parte 1](#capítulo-91-–-machine-learning-–-guia-definitivo-–-parte-1)
+- [Capítulo 91 – Machine Learning – Guia Definitivo – Parte 1](#capitulo-91---machine-learning---guia-definitivo---parte-1)
 
-- [Capítulo 92 – Machine Learning – Guia Definitivo – Parte 2](#capítulo-92-–-machine-learning-–-guia-definitivo-–-parte-2)
+- [Capítulo 92 – Machine Learning – Guia Definitivo – Parte 2](#capitulo-92---machine-learning---guia-definitivo---parte-2)
 
-- [Capítulo 93 – Machine Learning – Guia Definitivo – Parte 3](#capítulo-93-–-machine-learning-–-guia-definitivo-–-parte-3)
+- [Capítulo 93 – Machine Learning – Guia Definitivo – Parte 3](#capitulo-93---machine-learning---guia-definitivo---parte-3)
 
-- [Capítulo 94 – Machine Learning – Guia Definitivo – Parte 4](#capítulo-94-–-machine-learning-–-guia-definitivo-–-parte-4)
+- [Capítulo 94 – Machine Learning – Guia Definitivo – Parte 4](#capitulo-94---machine-learning---guia-definitivo---parte-4)
 
-- [Capítulo 95 – Machine Learning – Guia Definitivo – Parte 5](#capítulo-95-–-machine-learning-–-guia-definitivo-–-parte-5)
+- [Capítulo 95 – Machine Learning – Guia Definitivo – Parte 5](#capitulo-95---machine-learning---guia-definitivo---parte-5)
 
-- [Capítulo 96 – Machine Learning – Guia Definitivo – Parte 6](#capítulo-96-–-machine-learning-–-guia-definitivo-–-parte-6)
+- [Capítulo 96 – Machine Learning – Guia Definitivo – Parte 6](#capitulo-96---machine-learning---guia-definitivo---parte-6)
 
-- [Capítulo 97 – Machine Learning – Guia Definitivo – Parte 7](#capítulo-97-–-machine-learning-–-guia-definitivo-–-parte-7)
+- [Capítulo 97 – Machine Learning – Guia Definitivo – Parte 7](#capitulo-97---machine-learning---guia-definitivo---parte-7)
 
-- [Capítulo 98 – Machine Learning – Guia Definitivo – Parte 8](#capítulo-98-–-machine-learning-–-guia-definitivo-–-parte-8)
+- [Capítulo 98 – Machine Learning – Guia Definitivo – Parte 8](#capitulo-98---machine-learning---guia-definitivo---parte-8)
 
-- [Capítulo 99 – Machine Learning – Guia Definitivo – Parte 9](#capítulo-99-–-machine-learning-–-guia-definitivo-–-parte-9)
+- [Capítulo 99 – Machine Learning – Guia Definitivo – Parte 9](#capitulo-99---machine-learning---guia-definitivo---parte-9)
 
-- [Capítulo 100 – Machine Learning – Guia Definitivo – Parte 10](#capítulo-100-–-machine-learning-–-guia-definitivo-–-parte-10)
+- [Capítulo 100 – Machine Learning – Guia Definitivo – Parte 10](#capitulo-100---machine-learning---guia-definitivo---parte-10)
 
 
 
-<div id="capítulo-1-–-deep-learning-e-a-tempestade-perfeita"></div>
+<div id="capitulo-1---deep-learning-e-a-tempestade-perfeita"></div>
 
 # Capítulo 1 – Deep Learning e a Tempestade Perfeita
 
@@ -243,7 +243,7 @@ Equipe DSA
  
 
 
-<div id="capítulo-2-–-uma-breve-história-das-redes-neurais-artificiais"></div>
+<div id="capitulo-2---uma-breve-historia-das-redes-neurais-artificiais"></div>
 
 # Capítulo 2 – Uma Breve História das Redes Neurais Artificiais
 
@@ -407,7 +407,7 @@ Minsky, M. (1952). A neural-analogue calculator based upon a probability model o
  
 
 
-<div id="capítulo-3-–-o-que-são-redes-neurais-artificiais-profundas-ou-deep-learning?"></div>
+<div id="capitulo-3---o-que-sao-redes-neurais-artificiais-profundas-ou-deep-learning?"></div>
 
 # Capítulo 3 – O Que São Redes Neurais Artificiais Profundas ou Deep Learning?
 
@@ -526,7 +526,7 @@ Widrow, B., & Lehr, M. (1990). 30 years of adaptive neural networks: perceptron,
 D. E. Rumelhart, G. E. Hinton, and R. J. Williams. 1986. Learning internal representations by error propagation. In Parallel distributed processing: explorations in the microstructure of cognition, vol. 1, David E. Rumelhart, James L. McClelland, and CORPORATE PDP Research Group (Eds.). MIT Press, Cambridge, MA, USA 318-362
 
 
-<div id="capítulo-4-–-o-neurônio,-biológico-e-matemático"></div>
+<div id="capitulo-4---o-neuronio,-biologico-e-matematico"></div>
 
 # Capítulo 4 – O Neurônio, Biológico e Matemático
 
@@ -657,7 +657,7 @@ JAIN, A. K, MAO, J., MOHIUDDIN, K.M. Artificial neural networks: a tutorial. IEE
  
 
 
-<div id="capítulo-5-–-usando-redes-neurais-para-reconhecer-dígitos-manuscritos"></div>
+<div id="capitulo-5---usando-redes-neurais-para-reconhecer-digitos-manuscritos"></div>
 
 # Capítulo 5 – Usando Redes Neurais Para Reconhecer Dígitos Manuscritos
 
@@ -725,7 +725,7 @@ Referências:
  
 
 
-<div id="capítulo-6-–-o-perceptron-–-parte-1"></div>
+<div id="capitulo-6---o-perceptron---parte-1"></div>
 
 # Capítulo 6 – O Perceptron – Parte 1
 
@@ -873,7 +873,7 @@ Referências:
  
 
 
-<div id="capítulo-7-–-o-perceptron-–-parte-2"></div>
+<div id="capitulo-7---o-perceptron---parte-2"></div>
 
 # Capítulo 7 – O Perceptron – Parte 2
 
@@ -1007,7 +1007,7 @@ Referências:
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (alguns trechos extraídos e traduzidos com autorização do autor [Michael Nielsen](http://michaelnielsen.org/))
 
 
-<div id="capítulo-8-–-função-de-ativação"></div>
+<div id="capitulo-8---funcao-de-ativacao"></div>
 
 # Capítulo 8 – Função de Ativação
 
@@ -1274,7 +1274,7 @@ Referências:
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (alguns trechos extraídos e traduzidos com autorização do autor [Michael Nielsen](http://michaelnielsen.org/))
 
 
-<div id="capítulo-9-–-a-arquitetura-das-redes-neurais"></div>
+<div id="capitulo-9---a-arquitetura-das-redes-neurais"></div>
 
 # Capítulo 9 – A Arquitetura das Redes Neurais
 
@@ -1405,7 +1405,7 @@ Referências:
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (alguns trechos extraídos e traduzidos com autorização do autor [Michael Nielsen](http://michaelnielsen.org/))
 
 
-<div id="capítulo-10-–-as-10-principais-arquiteturas-de-redes-neurais"></div>
+<div id="capitulo-10---as-10-principais-arquiteturas-de-redes-neurais"></div>
 
 # Capítulo 10 – As 10 Principais Arquiteturas de Redes Neurais
 
@@ -1839,7 +1839,7 @@ Referências:
 [Generative Adversarial Networks (GANs)](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 
 
-<div id="capítulo-11-–-design-de-uma-rede-neural-para-reconhecimento-de-dígitos"></div>
+<div id="capitulo-11---design-de-uma-rede-neural-para-reconhecimento-de-digitos"></div>
 
 # Capítulo 11 – Design De Uma Rede Neural Para Reconhecimento de Dígitos
 
@@ -1991,7 +1991,7 @@ Referências:
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (alguns trechos extraídos e traduzidos com autorização do autor [Michael Nielsen](http://michaelnielsen.org/))
 
 
-<div id="capítulo-12-–-aprendizado-com-a-descida-do-gradiente"></div>
+<div id="capitulo-12---aprendizado-com-a-descida-do-gradiente"></div>
 
 # Capítulo 12 – Aprendizado Com a Descida do Gradiente
 
@@ -2281,7 +2281,7 @@ Referências:
 [Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning](https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
 
 
-<div id="capítulo-13-–-construindo-uma-rede-neural-com-linguagem-python"></div>
+<div id="capitulo-13---construindo-uma-rede-neural-com-linguagem-python"></div>
 
 # Capítulo 13 – Construindo Uma Rede Neural Com Linguagem Python
 
@@ -2475,7 +2475,7 @@ Referências:
 [Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning](https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
 
 
-<div id="capítulo-14-–-algoritmo-backpropagation-parte-1-–-grafos-computacionais-e-chain-rule"></div>
+<div id="capitulo-14---algoritmo-backpropagation-parte-1---grafos-computacionais-e-chain-rule"></div>
 
 # Capítulo 14 – Algoritmo Backpropagation Parte 1 – Grafos Computacionais e Chain Rule
 
@@ -2788,7 +2788,7 @@ Referências:
 Nota: parte das imagens usadas neste capítulo foram extraídas no excelente post (citado nas referências acima) de [Christopher Olah](http://colah.github.io/about.html), pesquisador de Machine Learning do Google Brain, e com a devida autorização do autor.
 
 
-<div id="capítulo-15-–-algoritmo-backpropagation-parte-2-–-treinamento-de-redes-neurais"></div>
+<div id="capitulo-15---algoritmo-backpropagation-parte-2---treinamento-de-redes-neurais"></div>
 
 # Capítulo 15 – Algoritmo Backpropagation Parte 2 – Treinamento de Redes Neurais
 
@@ -3111,7 +3111,7 @@ Referências:
 [Gradient Descent vs Stochastic Gradient Descent vs Mini-Batch Learning](https://sebastianraschka.com/faq/docs/closed-form-vs-gd.html)
 
 
-<div id="capítulo-16-–-algoritmo-backpropagation-em-python"></div>
+<div id="capitulo-16---algoritmo-backpropagation-em-python"></div>
 
 # Capítulo 16 – Algoritmo Backpropagation em Python
 
@@ -3236,7 +3236,7 @@ Referências:
  
 
 
-<div id="capítulo-17-–-cross-entropy-cost-function"></div>
+<div id="capitulo-17---cross-entropy-cost-function"></div>
 
 # Capítulo 17 – Cross-Entropy Cost Function
 
@@ -3529,7 +3529,7 @@ Referências:
 [Redes Neurais, princípios e práticas](https://www.amazon.com.br/Redes-Neurais-Princ%C3%ADpios-e-Pr%C3%A1tica-ebook/dp/B073QSG69Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516302804&sr=1-1)
 
 
-<div id="capítulo-18-–-entropia-cruzada-para-quantificar-a-diferença-entre-duas-distribuições-de-probabilidade"></div>
+<div id="capitulo-18---entropia-cruzada-para-quantificar-a-diferenca-entre-duas-distribuicoes-de-probabilidade"></div>
 
 # Capítulo 18 – Entropia Cruzada Para Quantificar a Diferença Entre Duas Distribuições de Probabilidade
 
@@ -3669,7 +3669,7 @@ Referências:
 [Redes Neurais, princípios e práticas](https://www.amazon.com.br/Redes-Neurais-Princ%C3%ADpios-e-Pr%C3%A1tica-ebook/dp/B073QSG69Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516302804&sr=1-1)
 
 
-<div id="capítulo-19-–-overfitting-e-regularização-–-parte-1"></div>
+<div id="capitulo-19---overfitting-e-regularizacao---parte-1"></div>
 
 # Capítulo 19 – Overfitting e Regularização – Parte 1
 
@@ -3815,7 +3815,7 @@ Referências:
 [Redes Neurais, princípios e práticas](https://www.amazon.com.br/Redes-Neurais-Princ%C3%ADpios-e-Pr%C3%A1tica-ebook/dp/B073QSG69Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516302804&sr=1-1)
 
 
-<div id="capítulo-20-–-overfitting-e-regularização-–-parte-2"></div>
+<div id="capitulo-20---overfitting-e-regularizacao---parte-2"></div>
 
 # Capítulo 20 – Overfitting e Regularização – Parte 2
 
@@ -4063,7 +4063,7 @@ Referências:
 [Redes Neurais, princípios e práticas](https://www.amazon.com.br/Redes-Neurais-Princ%C3%ADpios-e-Pr%C3%A1tica-ebook/dp/B073QSG69Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516302804&sr=1-1)
 
 
-<div id="capítulo-21-–-afinal,-por-que-a-regularização-ajuda-a-reduzir-o-overfitting?"></div>
+<div id="capitulo-21---afinal,-por-que-a-regularizacao-ajuda-a-reduzir-o-overfitting?"></div>
 
 # Capítulo 21 – Afinal, Por Que a Regularização Ajuda a Reduzir o Overfitting?
 
@@ -4155,7 +4155,7 @@ Referências:
 [Redes Neurais, princípios e práticas](https://www.amazon.com.br/Redes-Neurais-Princ%C3%ADpios-e-Pr%C3%A1tica-ebook/dp/B073QSG69Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516302804&sr=1-1)
 
 
-<div id="capítulo-22-–-regularização-l1"></div>
+<div id="capitulo-22---regularizacao-l1"></div>
 
 # Capítulo 22 – Regularização L1
 
@@ -4272,7 +4272,7 @@ Referências:
 [Redes Neurais, princípios e práticas](https://www.amazon.com.br/Redes-Neurais-Princ%C3%ADpios-e-Pr%C3%A1tica-ebook/dp/B073QSG69Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516302804&sr=1-1)
 
 
-<div id="capítulo-23-–-como-funciona-o-dropout?"></div>
+<div id="capitulo-23---como-funciona-o-dropout?"></div>
 
 # Capítulo 23 – Como Funciona o Dropout?
 
@@ -4364,7 +4364,7 @@ Referências:
 [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf)
 
 
-<div id="capítulo-24-–-expandir-artificialmente-os-dados-de-treinamento"></div>
+<div id="capitulo-24---expandir-artificialmente-os-dados-de-treinamento"></div>
 
 # Capítulo 24 – Expandir Artificialmente os Dados de Treinamento
 
@@ -4522,7 +4522,7 @@ Referências:
 [Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf)
 
 
-<div id="capítulo-25-–-inicialização-de-pesos-em-redes-neurais-artificiais"></div>
+<div id="capitulo-25---inicializacao-de-pesos-em-redes-neurais-artificiais"></div>
 
 # Capítulo 25 – Inicialização de Pesos em Redes Neurais Artificiais
 
@@ -4701,7 +4701,7 @@ Referências:
 [Machine Learning](https://www.amazon.com.br/Machine-Learning-Tom-M-Mitchell/dp/0070428077/ref=sr_1_fkmr0_1?ie=UTF8&qid=1482129989&sr=8-1-fkmr0&keywords=Machine+Learning+%28McGraw-Hill+International+Editions+Computer+Science+Series%29)
 
 
-<div id="capítulo-26-–-como-escolher-os-hiperparâmetros-de-uma-rede-neural"></div>
+<div id="capitulo-26---como-escolher-os-hiperparametros-de-uma-rede-neural"></div>
 
 # Capítulo 26 – Como Escolher os Hiperparâmetros de Uma Rede Neural
 
@@ -4848,7 +4848,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-27-–-a-taxa-de-aprendizado-de-uma-rede-neural"></div>
+<div id="capitulo-27---a-taxa-de-aprendizado-de-uma-rede-neural"></div>
 
 # Capítulo 27 – A Taxa de Aprendizado de Uma Rede Neural
 
@@ -4928,7 +4928,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-28-–-usando-early-stopping-para-definir-o-número-de-épocas-de-treinamento"></div>
+<div id="capitulo-28---usando-early-stopping-para-definir-o-numero-de-epocas-de-treinamento"></div>
 
 # Capítulo 28 – Usando Early Stopping Para Definir o Número de Épocas de Treinamento
 
@@ -4999,7 +4999,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-29-–-definindo-o-tamanho-do-mini-batch"></div>
+<div id="capitulo-29---definindo-o-tamanho-do-mini-batch"></div>
 
 # Capítulo 29 – Definindo o Tamanho do Mini-Batch
 
@@ -5096,7 +5096,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-30-–-variações-do-stochastic-gradient-descent-–-hessian-optimization-e-momentum"></div>
+<div id="capitulo-30---variacoes-do-stochastic-gradient-descent---hessian-optimization-e-momentum"></div>
 
 # Capítulo 30 – Variações do Stochastic Gradient Descent – Hessian Optimization e Momentum
 
@@ -5271,7 +5271,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-31-–-as-redes-neurais-artificiais-podem-computar-qualquer-função?"></div>
+<div id="capitulo-31---as-redes-neurais-artificiais-podem-computar-qualquer-funcao?"></div>
 
 # Capítulo 31 – As Redes Neurais Artificiais Podem Computar Qualquer Função?
 
@@ -5363,7 +5363,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-32-–-como-uma-rede-neural-artificial-encontra-a-aproximação-de-uma-função"></div>
+<div id="capitulo-32---como-uma-rede-neural-artificial-encontra-a-aproximacao-de-uma-funcao"></div>
 
 # Capítulo 32 – Como Uma Rede Neural Artificial Encontra a Aproximação de Uma Função
 
@@ -5568,7 +5568,7 @@ Referências:
 
 
 
-<div id="capítulo-33-–-por-que-as-redes-neurais-profundas-são-difíceis-de-treinar?"></div>
+<div id="capitulo-33---por-que-as-redes-neurais-profundas-sao-dificeis-de-treinar?"></div>
 
 # Capítulo 33 – Por que as Redes Neurais Profundas São Difíceis de Treinar?
 
@@ -5697,7 +5697,7 @@ Referências:
 
 
 
-<div id="capítulo-34-–-o-problema-da-dissipação-do-gradiente"></div>
+<div id="capitulo-34---o-problema-da-dissipacao-do-gradiente"></div>
 
 # Capítulo 34 – O Problema da Dissipação do Gradiente
 
@@ -5917,7 +5917,7 @@ Referências:
 
 
 
-<div id="capítulo-35-–-a-matemática-do-problema-de-dissipação-do-gradiente-em-deep-learning"></div>
+<div id="capitulo-35---a-matematica-do-problema-de-dissipacao-do-gradiente-em-deep-learning"></div>
 
 # Capítulo 35 – A Matemática do Problema de Dissipação do Gradiente em Deep Learning
 
@@ -6069,7 +6069,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-36-–-outros-problemas-com-o-gradiente-em-redes-neurais-artificiais"></div>
+<div id="capitulo-36---outros-problemas-com-o-gradiente-em-redes-neurais-artificiais"></div>
 
 # Capítulo 36 – Outros Problemas com o Gradiente em Redes Neurais Artificiais
 
@@ -6185,7 +6185,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-37-–-o-efeito-do-batch-size-no-treinamento-de-redes-neurais-artificiais"></div>
+<div id="capitulo-37---o-efeito-do-batch-size-no-treinamento-de-redes-neurais-artificiais"></div>
 
 # Capítulo 37 – O Efeito do Batch Size no Treinamento de Redes Neurais Artificiais
 
@@ -6308,7 +6308,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-38-–-o-efeito-da-taxa-de-aprendizagem-no-treinamento-de-redes-neurais-artificiais"></div>
+<div id="capitulo-38---o-efeito-da-taxa-de-aprendizagem-no-treinamento-de-redes-neurais-artificiais"></div>
 
 # Capítulo 38 – O Efeito da Taxa de Aprendizagem no Treinamento de Redes Neurais Artificiais
 
@@ -6411,7 +6411,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-39-–-relação-entre-o-tamanho-do-lote-e-o-cálculo-do-gradiente"></div>
+<div id="capitulo-39---relacao-entre-o-tamanho-do-lote-e-o-calculo-do-gradiente"></div>
 
 # Capítulo 39 – Relação Entre o Tamanho do Lote e o Cálculo do Gradiente
 
@@ -6535,7 +6535,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-40-–-introdução-às-redes-neurais-convolucionais"></div>
+<div id="capitulo-40---introducao-as-redes-neurais-convolucionais"></div>
 
 # Capítulo 40 – Introdução às Redes Neurais Convolucionais
 
@@ -6663,7 +6663,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-41-–-campos-receptivos-locais-em-redes-neurais-convolucionais"></div>
+<div id="capitulo-41---campos-receptivos-locais-em-redes-neurais-convolucionais"></div>
 
 # Capítulo 41 – Campos Receptivos Locais em Redes Neurais Convolucionais
 
@@ -6787,7 +6787,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-42-–-compartilhamento-de-pesos-em-redes-neurais-convolucionais"></div>
+<div id="capitulo-42---compartilhamento-de-pesos-em-redes-neurais-convolucionais"></div>
 
 # Capítulo 42 – Compartilhamento de Pesos em Redes Neurais Convolucionais
 
@@ -6897,7 +6897,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-43-–-camadas-de-pooling-em-redes-neurais-convolucionais"></div>
+<div id="capitulo-43---camadas-de-pooling-em-redes-neurais-convolucionais"></div>
 
 # Capítulo 43 – Camadas de Pooling em Redes Neurais Convolucionais
 
@@ -7015,7 +7015,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-44-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-1"></div>
+<div id="capitulo-44---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-1"></div>
 
 # Capítulo 44 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 1
 
@@ -7153,7 +7153,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-45-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-2"></div>
+<div id="capitulo-45---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-2"></div>
 
 # Capítulo 45 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 2
 
@@ -7215,7 +7215,7 @@ Referências:
 [Análise de Imagens com Inteligência Artificial](https://www.datascienceacademy.com.br/course/analise-de-imagens-com-inteligencia-artificial)
 
 
-<div id="capítulo-46-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-3"></div>
+<div id="capitulo-46---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-3"></div>
 
 # Capítulo 46 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 3
 
@@ -7313,7 +7313,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-47-–-reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python-–-parte-4"></div>
+<div id="capitulo-47---reconhecimento-de-imagens-com-redes-neurais-convolucionais-em-python---parte-4"></div>
 
 # Capítulo 47 – Reconhecimento de Imagens com Redes Neurais Convolucionais em Python – Parte 4
 
@@ -7346,7 +7346,7 @@ Lembrando que a DSA oferece um programa completo para quem deseja aprender Deep 
 
 
 Continuaremos no próximo capítulo.
-<div id="capítulo-48-–-redes-neurais-recorrentes"></div>
+<div id="capitulo-48---redes-neurais-recorrentes"></div>
 
 # Capítulo 48 – Redes Neurais Recorrentes
 
@@ -7482,7 +7482,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-49-–-a-matemática-do-backpropagation-through-time-(bptt)"></div>
+<div id="capitulo-49---a-matematica-do-backpropagation-through-time-(bptt)"></div>
 
 # Capítulo 49 – A Matemática do Backpropagation Through Time (BPTT)
 
@@ -7712,7 +7712,7 @@ Referências:
 
 
 
-<div id="capítulo-50-–-a-matemática-da-dissipação-do-gradiente-e-aplicações-das-rnns"></div>
+<div id="capitulo-50---a-matematica-da-dissipacao-do-gradiente-e-aplicacoes-das-rnns"></div>
 
 # Capítulo 50 – A Matemática da Dissipação do Gradiente e Aplicações das RNNs
 
@@ -7887,7 +7887,7 @@ Referências:
 
 
 
-<div id="capítulo-51-–-arquitetura-de-redes-neurais-long-short-term-memory-(lstm)"></div>
+<div id="capitulo-51---arquitetura-de-redes-neurais-long-short-term-memory-(lstm)"></div>
 
 # Capítulo 51 – Arquitetura de Redes Neurais Long Short Term Memory (LSTM)
 
@@ -8039,7 +8039,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-52-–-arquitetura-de-redes-neurais-gated-recurrent-unit-(gru)"></div>
+<div id="capitulo-52---arquitetura-de-redes-neurais-gated-recurrent-unit-(gru)"></div>
 
 # Capítulo 52 – Arquitetura de Redes Neurais Gated Recurrent Unit (GRU)
 
@@ -8196,7 +8196,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-53-–-matemática-na-gru,-dissipação-e-clipping-do-gradiente"></div>
+<div id="capitulo-53---matematica-na-gru,-dissipacao-e-clipping-do-gradiente"></div>
 
 # Capítulo 53 – Matemática na GRU, Dissipação e Clipping do Gradiente
 
@@ -8410,7 +8410,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-54-–-introdução-às-redes-adversárias-generativas-(gans-–-generative-adversarial-networks)"></div>
+<div id="capitulo-54---introducao-as-redes-adversarias-generativas-(gans---generative-adversarial-networks)"></div>
 
 # Capítulo 54 – Introdução às Redes Adversárias Generativas (GANs – Generative Adversarial Networks)
 
@@ -8559,7 +8559,7 @@ Referências:
 [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 
-<div id="capítulo-55-–-geração-de-variáveis-aleatórias-–-uma-das-bases-dos-modelos-generativos-em-gans-(generative-adversarial-networks)"></div>
+<div id="capitulo-55---geracao-de-variaveis-aleatorias---uma-das-bases-dos-modelos-generativos-em-gans-(generative-adversarial-networks)"></div>
 
 # Capítulo 55 – Geração de Variáveis Aleatórias – Uma das Bases dos Modelos Generativos em GANs (Generative Adversarial Networks)
 
@@ -8738,7 +8738,7 @@ Referências:
 
 
 
-<div id="capítulo-56-–-modelos-generativos-–-o-diferencial-das-gans-(generative-adversarial-networks)"></div>
+<div id="capitulo-56---modelos-generativos---o-diferencial-das-gans-(generative-adversarial-networks)"></div>
 
 # Capítulo 56 – Modelos Generativos – O Diferencial das GANs (Generative Adversarial Networks)
 
@@ -8963,7 +8963,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-57-–-os-detalhes-matemáticos-das-gans-(generative-adversarial-networks)"></div>
+<div id="capitulo-57---os-detalhes-matematicos-das-gans-(generative-adversarial-networks)"></div>
 
 # Capítulo 57 – Os Detalhes Matemáticos das GANs (Generative Adversarial Networks)
 
@@ -9121,7 +9121,7 @@ Referências:
 [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 
-<div id="capítulo-58-–-introdução-aos-autoencoders"></div>
+<div id="capitulo-58---introducao-aos-autoencoders"></div>
 
 # Capítulo 58 – Introdução aos Autoencoders
 
@@ -9234,7 +9234,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-59-–-principais-tipos-de-redes-neurais-artificiais-autoencoders"></div>
+<div id="capitulo-59---principais-tipos-de-redes-neurais-artificiais-autoencoders"></div>
 
 # Capítulo 59 – Principais Tipos de Redes Neurais Artificiais Autoencoders
 
@@ -9410,7 +9410,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-60-–-variational-autoencoders-(vaes)-–-definição,-redução-de-dimensionalidade,-espaço-latente-e-regularização"></div>
+<div id="capitulo-60---variational-autoencoders-(vaes)---definicao,-reducao-de-dimensionalidade,-espaco-latente-e-regularizacao"></div>
 
 # Capítulo 60 – Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização
 
@@ -9621,7 +9621,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-61-–-a-matemática-dos-variational-autoencoders-(vaes)"></div>
+<div id="capitulo-61---a-matematica-dos-variational-autoencoders-(vaes)"></div>
 
 # Capítulo 61 – A Matemática dos Variational Autoencoders (VAEs)
 
@@ -9822,7 +9822,7 @@ Referências:
 [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 
-<div id="capítulo-62-–-o-que-é-aprendizagem-por-reforço?"></div>
+<div id="capitulo-62---o-que-e-aprendizagem-por-reforco?"></div>
 
 # Capítulo 62 – O Que é Aprendizagem Por Reforço?
 
@@ -9965,7 +9965,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-63-–-aplicações-da-aprendizagem-por-reforço-no-mundo-real"></div>
+<div id="capitulo-63---aplicacoes-da-aprendizagem-por-reforco-no-mundo-real"></div>
 
 # Capítulo 63 – Aplicações da Aprendizagem Por Reforço no Mundo Real
 
@@ -10180,7 +10180,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-64-–-componentes-do-aprendizado-por-reforço-(reinforcement-learning)"></div>
+<div id="capitulo-64---componentes-do-aprendizado-por-reforco-(reinforcement-learning)"></div>
 
 # Capítulo 64 – Componentes do Aprendizado Por Reforço (Reinforcement Learning)
 
@@ -10296,7 +10296,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-65-–-distribuições-de-probabilidade,-redes-neurais-e-reinforcement-learning"></div>
+<div id="capitulo-65---distribuicoes-de-probabilidade,-redes-neurais-e-reinforcement-learning"></div>
 
 # Capítulo 65 – Distribuições de Probabilidade, Redes Neurais e Reinforcement Learning
 
@@ -10443,7 +10443,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-66-–-algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning-–-parte-1"></div>
+<div id="capitulo-66---algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning---parte-1"></div>
 
 # Capítulo 66 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Parte 1
 
@@ -10566,7 +10566,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-67-–-algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning-–-parte-2"></div>
+<div id="capitulo-67---algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning---parte-2"></div>
 
 # Capítulo 67 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Parte 2
 
@@ -10827,7 +10827,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-68-–-algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning-–-q-learning"></div>
+<div id="capitulo-68---algoritmo-de-agente-baseado-em-ia-com-reinforcement-learning---q-learning"></div>
 
 # Capítulo 68 – Algoritmo de Agente Baseado em IA com Reinforcement Learning – Q-Learning
 
@@ -10958,7 +10958,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-69-–-treinando-um-agente-baseado-em-ia-para-jogar-box-no-atari-usando-linguagem-python"></div>
+<div id="capitulo-69---treinando-um-agente-baseado-em-ia-para-jogar-box-no-atari-usando-linguagem-python"></div>
 
 # Capítulo 69 – Treinando Um Agente Baseado em IA Para Jogar Box no Atari Usando Linguagem Python
 
@@ -11020,7 +11020,7 @@ Referências:
 [Formação Cientista de Dados](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
 
 
-<div id="capítulo-70-–-deep-q-network-e-processos-de-decisão-de-markov"></div>
+<div id="capitulo-70---deep-q-network-e-processos-de-decisao-de-markov"></div>
 
 # Capítulo 70 – Deep Q-Network e Processos de Decisão de Markov
 
@@ -11305,7 +11305,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capítulo-71-–-inteligência-artificial-para-jogar-blackjack-–-parte-1"></div>
+<div id="capitulo-71---inteligencia-artificial-para-jogar-blackjack---parte-1"></div>
 
 # Capítulo 71 – Inteligência Artificial Para Jogar Blackjack – Parte 1
 
@@ -11358,7 +11358,7 @@ Referências:
 [Formação Cientista de Dados](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
 
 
-<div id="capítulo-72-–-inteligência-artificial-para-jogar-blackjack-–-parte-2"></div>
+<div id="capitulo-72---inteligencia-artificial-para-jogar-blackjack---parte-2"></div>
 
 # Capítulo 72 – Inteligência Artificial Para Jogar Blackjack – Parte 2
 
@@ -11387,7 +11387,7 @@ Referências:
 [Formação Linguagem Python Para Data Science](https://www.datascienceacademy.com.br/bundle/formacao-linguagem-python-para-data-science)
 
 
-<div id="capítulo-73-–-inteligência-artificial-para-jogar-blackjack-–-parte-3"></div>
+<div id="capitulo-73---inteligencia-artificial-para-jogar-blackjack---parte-3"></div>
 
 # Capítulo 73 – Inteligência Artificial Para Jogar Blackjack – Parte 3
 
@@ -11419,7 +11419,7 @@ Referências:
 [Formação Cientista de Dados](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
 
 
-<div id="capítulo-74-–-inteligência-artificial-para-jogar-blackjack-–-parte-4"></div>
+<div id="capitulo-74---inteligencia-artificial-para-jogar-blackjack---parte-4"></div>
 
 # Capítulo 74 – Inteligência Artificial Para Jogar Blackjack – Parte 4
 
@@ -11451,7 +11451,7 @@ Referências:
 [Formação Cientista de Dados](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
 
 
-<div id="capítulo-75-–-inteligência-artificial-para-jogar-blackjack-–-parte-5"></div>
+<div id="capitulo-75---inteligencia-artificial-para-jogar-blackjack---parte-5"></div>
 
 # Capítulo 75 – Inteligência Artificial Para Jogar Blackjack – Parte 5
 
@@ -11476,7 +11476,7 @@ Referências:
 
 [Formação Engenheiro de Machine Learning](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-machine-learning)
 
-<div id="capítulo-76-–-o-que-é-bert-(bidirectional-encoder-representations-from-transformers)?"></div>
+<div id="capitulo-76---o-que-e-bert-(bidirectional-encoder-representations-from-transformers)?"></div>
 
 # Capítulo 76 – O Que é BERT (Bidirectional Encoder Representations from Transformers)?
 
@@ -11546,7 +11546,7 @@ Referências:
 
 
 
-<div id="capítulo-77-–-modelo-bert-para-processamento-de-linguagem-natural"></div>
+<div id="capitulo-77---modelo-bert-para-processamento-de-linguagem-natural"></div>
 
 # Capítulo 77 – Modelo BERT Para Processamento de Linguagem Natural
 
@@ -11620,7 +11620,7 @@ Referências:
 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 
 
-<div id="capítulo-78-–-modelo-bert-–-previsão-da-próxima-frase"></div>
+<div id="capitulo-78---modelo-bert---previsao-da-proxima-frase"></div>
 
 # Capítulo 78 – Modelo BERT – Previsão da Próxima Frase
 
@@ -11759,7 +11759,7 @@ Referências:
 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 
 
-<div id="capítulo-79-–-conhecendo-o-modelo-gpt-3-(generative-pre-trained-transformer)"></div>
+<div id="capitulo-79---conhecendo-o-modelo-gpt-3-(generative-pre-trained-transformer)"></div>
 
 # Capítulo 79 – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)
 
@@ -11837,7 +11837,7 @@ Referências:
 [OpenAI](https://openai.com/blog/openai-api/)
 
 
-<div id="capítulo-80-–-melhorando-a-compreensão-da-linguagem-por-meio-do-pré-treinamento-generativo-(gpt-1)"></div>
+<div id="capitulo-80---melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-(gpt-1)"></div>
 
 # Capítulo 80 – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)
 
@@ -11962,7 +11962,7 @@ Referências:
 
 
 
-<div id="capítulo-81-–-modelos-de-linguagem-como-tarefas-não-supervisionadas-(gpt-2)"></div>
+<div id="capitulo-81---modelos-de-linguagem-como-tarefas-nao-supervisionadas-(gpt-2)"></div>
 
 # Capítulo 81 – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)
 
@@ -12064,7 +12064,7 @@ Referências:
 
 
 
-<div id="capítulo-82-–-gpt-3-–-características-e-limitações"></div>
+<div id="capitulo-82---gpt-3---caracteristicas-e-limitacoes"></div>
 
 # Capítulo 82 – GPT-3 – Características e Limitações
 
@@ -12174,7 +12174,7 @@ Referências:
 
 
 
-<div id="capítulo-83-–-liquid-neural-network-–-rede-neural-líquida"></div>
+<div id="capitulo-83---liquid-neural-network---rede-neural-liquida"></div>
 
 # Capítulo 83 – Liquid Neural Network – Rede Neural Líquida
 
@@ -12245,7 +12245,7 @@ Referências:
 [“Liquid” machine-learning system adapts to changing conditions](https://news.mit.edu/2021/machine-learning-adapts-0128)
 
 
-<div id="capítulo-84-–-clip-(contrastive-language-image-pre-training):-conectando-texto-e-imagens"></div>
+<div id="capitulo-84---clip-(contrastive-language-image-pre-training):-conectando-texto-e-imagens"></div>
 
 # Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens
 
@@ -12330,7 +12330,7 @@ Referências:
 [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 
-<div id="capítulo-85-–-transformadores-–-o-estado-da-arte-em-processamento-de-linguagem-natural"></div>
+<div id="capitulo-85---transformadores---o-estado-da-arte-em-processamento-de-linguagem-natural"></div>
 
 # Capítulo 85 – Transformadores – O Estado da Arte em Processamento de Linguagem Natural
 
@@ -12425,7 +12425,7 @@ Referências:
 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 
 
-<div id="capítulo-86-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-1"></div>
+<div id="capitulo-86---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-1"></div>
 
 # Capítulo 86 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 1
 
@@ -12568,7 +12568,7 @@ Referências:
 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 
 
-<div id="capítulo-87-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-2"></div>
+<div id="capitulo-87---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-2"></div>
 
 # Capítulo 87 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 2
 
@@ -12660,7 +12660,7 @@ Referências:
 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 
 
-<div id="capítulo-88-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-3"></div>
+<div id="capitulo-88---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-3"></div>
 
 # Capítulo 88 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 3
 
@@ -12750,7 +12750,7 @@ Referências:
 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 
 
-<div id="capítulo-89-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-4"></div>
+<div id="capitulo-89---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-4"></div>
 
 # Capítulo 89 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 4
 
@@ -12851,7 +12851,7 @@ Referências:
 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 
 
-<div id="capítulo-90-–-como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-–-parte-5"></div>
+<div id="capitulo-90---como-funcionam-os-transformadores-em-processamento-de-linguagem-natural---parte-5"></div>
 
 # Capítulo 90 – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 5
 
@@ -13039,7 +13039,7 @@ Referências:
 [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 
 
-<div id="capítulo-91-–-machine-learning-–-guia-definitivo-–-parte-1"></div>
+<div id="capitulo-91---machine-learning---guia-definitivo---parte-1"></div>
 
 # Capítulo 91 – Machine Learning – Guia Definitivo – Parte 1
 
@@ -13146,7 +13146,7 @@ Referências:
 [Machine Learning, Explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 
 
-<div id="capítulo-92-–-machine-learning-–-guia-definitivo-–-parte-2"></div>
+<div id="capitulo-92---machine-learning---guia-definitivo---parte-2"></div>
 
 # Capítulo 92 – Machine Learning – Guia Definitivo – Parte 2
 
@@ -13286,7 +13286,7 @@ Referências:
 [Machine Learning, Explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 
 
-<div id="capítulo-93-–-machine-learning-–-guia-definitivo-–-parte-3"></div>
+<div id="capitulo-93---machine-learning---guia-definitivo---parte-3"></div>
 
 # Capítulo 93 – Machine Learning – Guia Definitivo – Parte 3
 
@@ -13459,7 +13459,7 @@ Os termos a seguir aparecerão repetidamente em projetos de Machine Learning (li
 A partir do próximo capítulo veremos as regras para uso e aplicação de Machine Learning.
 
 
-<div id="capítulo-94-–-machine-learning-–-guia-definitivo-–-parte-4"></div>
+<div id="capitulo-94---machine-learning---guia-definitivo---parte-4"></div>
 
 # Capítulo 94 – Machine Learning – Guia Definitivo – Parte 4
 
@@ -13618,7 +13618,7 @@ Referências:
 [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 
-<div id="capítulo-95-–-machine-learning-–-guia-definitivo-–-parte-5"></div>
+<div id="capitulo-95---machine-learning---guia-definitivo---parte-5"></div>
 
 # Capítulo 95 – Machine Learning – Guia Definitivo – Parte 5
 
@@ -13707,7 +13707,7 @@ Referências:
 [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 
-<div id="capítulo-96-–-machine-learning-–-guia-definitivo-–-parte-6"></div>
+<div id="capitulo-96---machine-learning---guia-definitivo---parte-6"></div>
 
 # Capítulo 96 – Machine Learning – Guia Definitivo – Parte 6
 
@@ -13823,7 +13823,7 @@ Referências:
 [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 
-<div id="capítulo-97-–-machine-learning-–-guia-definitivo-–-parte-7"></div>
+<div id="capitulo-97---machine-learning---guia-definitivo---parte-7"></div>
 
 # Capítulo 97 – Machine Learning – Guia Definitivo – Parte 7
 
@@ -13992,7 +13992,7 @@ Referências:
 [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 
-<div id="capítulo-98-–-machine-learning-–-guia-definitivo-–-parte-8"></div>
+<div id="capitulo-98---machine-learning---guia-definitivo---parte-8"></div>
 
 # Capítulo 98 – Machine Learning – Guia Definitivo – Parte 8
 
@@ -14231,7 +14231,7 @@ Referências:
 [Deploy de Modelos de Machine Learning](https://www.datascienceacademy.com.br/course/deploy-de-modelos-de-machine-learning)
 
 
-<div id="capítulo-99-–-machine-learning-–-guia-definitivo-–-parte-9"></div>
+<div id="capitulo-99---machine-learning---guia-definitivo---parte-9"></div>
 
 # Capítulo 99 – Machine Learning – Guia Definitivo – Parte 9
 
@@ -14383,7 +14383,7 @@ Referências:
 [Deploy de Modelos de Machine Learning](https://www.datascienceacademy.com.br/course/deploy-de-modelos-de-machine-learning)
 
 
-<div id="capítulo-100-–-machine-learning-–-guia-definitivo-–-parte-10"></div>
+<div id="capitulo-100---machine-learning---guia-definitivo---parte-10"></div>
 
 # Capítulo 100 – Machine Learning – Guia Definitivo – Parte 10
 
