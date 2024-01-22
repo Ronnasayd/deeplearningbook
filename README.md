@@ -166,7 +166,7 @@
 
 - [Capítulo 83 – Liquid Neural Network – Rede Neural Líquida](#capitulo-83---liquid-neural-network---rede-neural-liquida)
 
-- [Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens](#capitulo-84---clip-contrastive-language-image-pre-training:-conectando-texto-e-imagens)
+- [Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens](#capitulo-84---clip-contrastive-language-image-pre-training-conectando-texto-e-imagens)
 
 - [Capítulo 85 – Transformadores – O Estado da Arte em Processamento de Linguagem Natural](#capitulo-85---transformadores---o-estado-da-arte-em-processamento-de-linguagem-natural)
 
@@ -12245,7 +12245,7 @@ Referências:
 [“Liquid” machine-learning system adapts to changing conditions](https://news.mit.edu/2021/machine-learning-adapts-0128)
 
 
-<div id="capitulo-84---clip-contrastive-language-image-pre-training:-conectando-texto-e-imagens"></div>
+<div id="capitulo-84---clip-contrastive-language-image-pre-training-conectando-texto-e-imagens"></div>
 
 # Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens
 
