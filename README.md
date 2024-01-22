@@ -96,37 +96,37 @@
 
 - [Capítulo 48 – Redes Neurais Recorrentes](#capitulo-48---redes-neurais-recorrentes)
 
-- [Capítulo 49 – A Matemática do Backpropagation Through Time (BPTT)](#capitulo-49---a-matematica-do-backpropagation-through-time-(bptt))
+- [Capítulo 49 – A Matemática do Backpropagation Through Time (BPTT)](#capitulo-49---a-matematica-do-backpropagation-through-time-bptt)
 
 - [Capítulo 50 – A Matemática da Dissipação do Gradiente e Aplicações das RNNs](#capitulo-50---a-matematica-da-dissipacao-do-gradiente-e-aplicacoes-das-rnns)
 
-- [Capítulo 51 – Arquitetura de Redes Neurais Long Short Term Memory (LSTM)](#capitulo-51---arquitetura-de-redes-neurais-long-short-term-memory-(lstm))
+- [Capítulo 51 – Arquitetura de Redes Neurais Long Short Term Memory (LSTM)](#capitulo-51---arquitetura-de-redes-neurais-long-short-term-memory-lstm)
 
-- [Capítulo 52 – Arquitetura de Redes Neurais Gated Recurrent Unit (GRU)](#capitulo-52---arquitetura-de-redes-neurais-gated-recurrent-unit-(gru))
+- [Capítulo 52 – Arquitetura de Redes Neurais Gated Recurrent Unit (GRU)](#capitulo-52---arquitetura-de-redes-neurais-gated-recurrent-unit-gru)
 
 - [Capítulo 53 – Matemática na GRU, Dissipação e Clipping do Gradiente](#capitulo-53---matematica-na-gru,-dissipacao-e-clipping-do-gradiente)
 
-- [Capítulo 54 – Introdução às Redes Adversárias Generativas (GANs – Generative Adversarial Networks)](#capitulo-54---introducao-as-redes-adversarias-generativas-(gans---generative-adversarial-networks))
+- [Capítulo 54 – Introdução às Redes Adversárias Generativas (GANs – Generative Adversarial Networks)](#capitulo-54---introducao-as-redes-adversarias-generativas-gans---generative-adversarial-networks)
 
-- [Capítulo 55 – Geração de Variáveis Aleatórias – Uma das Bases dos Modelos Generativos em GANs (Generative Adversarial Networks)](#capitulo-55---geracao-de-variaveis-aleatorias---uma-das-bases-dos-modelos-generativos-em-gans-(generative-adversarial-networks))
+- [Capítulo 55 – Geração de Variáveis Aleatórias – Uma das Bases dos Modelos Generativos em GANs (Generative Adversarial Networks)](#capitulo-55---geracao-de-variaveis-aleatorias---uma-das-bases-dos-modelos-generativos-em-gans-generative-adversarial-networks)
 
-- [Capítulo 56 – Modelos Generativos – O Diferencial das GANs (Generative Adversarial Networks)](#capitulo-56---modelos-generativos---o-diferencial-das-gans-(generative-adversarial-networks))
+- [Capítulo 56 – Modelos Generativos – O Diferencial das GANs (Generative Adversarial Networks)](#capitulo-56---modelos-generativos---o-diferencial-das-gans-generative-adversarial-networks)
 
-- [Capítulo 57 – Os Detalhes Matemáticos das GANs (Generative Adversarial Networks)](#capitulo-57---os-detalhes-matematicos-das-gans-(generative-adversarial-networks))
+- [Capítulo 57 – Os Detalhes Matemáticos das GANs (Generative Adversarial Networks)](#capitulo-57---os-detalhes-matematicos-das-gans-generative-adversarial-networks)
 
 - [Capítulo 58 – Introdução aos Autoencoders](#capitulo-58---introducao-aos-autoencoders)
 
 - [Capítulo 59 – Principais Tipos de Redes Neurais Artificiais Autoencoders](#capitulo-59---principais-tipos-de-redes-neurais-artificiais-autoencoders)
 
-- [Capítulo 60 – Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização](#capitulo-60---variational-autoencoders-(vaes)---definicao,-reducao-de-dimensionalidade,-espaco-latente-e-regularizacao)
+- [Capítulo 60 – Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização](#capitulo-60---variational-autoencoders-vaes---definicao,-reducao-de-dimensionalidade,-espaco-latente-e-regularizacao)
 
-- [Capítulo 61 – A Matemática dos Variational Autoencoders (VAEs)](#capitulo-61---a-matematica-dos-variational-autoencoders-(vaes))
+- [Capítulo 61 – A Matemática dos Variational Autoencoders (VAEs)](#capitulo-61---a-matematica-dos-variational-autoencoders-vaes)
 
 - [Capítulo 62 – O Que é Aprendizagem Por Reforço?](#capitulo-62---o-que-e-aprendizagem-por-reforco?)
 
 - [Capítulo 63 – Aplicações da Aprendizagem Por Reforço no Mundo Real](#capitulo-63---aplicacoes-da-aprendizagem-por-reforco-no-mundo-real)
 
-- [Capítulo 64 – Componentes do Aprendizado Por Reforço (Reinforcement Learning)](#capitulo-64---componentes-do-aprendizado-por-reforco-(reinforcement-learning))
+- [Capítulo 64 – Componentes do Aprendizado Por Reforço (Reinforcement Learning)](#capitulo-64---componentes-do-aprendizado-por-reforco-reinforcement-learning)
 
 - [Capítulo 65 – Distribuições de Probabilidade, Redes Neurais e Reinforcement Learning](#capitulo-65---distribuicoes-de-probabilidade,-redes-neurais-e-reinforcement-learning)
 
@@ -150,23 +150,23 @@
 
 - [Capítulo 75 – Inteligência Artificial Para Jogar Blackjack – Parte 5](#capitulo-75---inteligencia-artificial-para-jogar-blackjack---parte-5)
 
-- [Capítulo 76 – O Que é BERT (Bidirectional Encoder Representations from Transformers)?](#capitulo-76---o-que-e-bert-(bidirectional-encoder-representations-from-transformers)?)
+- [Capítulo 76 – O Que é BERT (Bidirectional Encoder Representations from Transformers)?](#capitulo-76---o-que-e-bert-bidirectional-encoder-representations-from-transformers?)
 
 - [Capítulo 77 – Modelo BERT Para Processamento de Linguagem Natural](#capitulo-77---modelo-bert-para-processamento-de-linguagem-natural)
 
 - [Capítulo 78 – Modelo BERT – Previsão da Próxima Frase](#capitulo-78---modelo-bert---previsao-da-proxima-frase)
 
-- [Capítulo 79 – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)](#capitulo-79---conhecendo-o-modelo-gpt-3-(generative-pre-trained-transformer))
+- [Capítulo 79 – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)](#capitulo-79---conhecendo-o-modelo-gpt-3-generative-pre-trained-transformer)
 
-- [Capítulo 80 – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)](#capitulo-80---melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-(gpt-1))
+- [Capítulo 80 – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)](#capitulo-80---melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-gpt-1)
 
-- [Capítulo 81 – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)](#capitulo-81---modelos-de-linguagem-como-tarefas-nao-supervisionadas-(gpt-2))
+- [Capítulo 81 – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)](#capitulo-81---modelos-de-linguagem-como-tarefas-nao-supervisionadas-gpt-2)
 
 - [Capítulo 82 – GPT-3 – Características e Limitações](#capitulo-82---gpt-3---caracteristicas-e-limitacoes)
 
 - [Capítulo 83 – Liquid Neural Network – Rede Neural Líquida](#capitulo-83---liquid-neural-network---rede-neural-liquida)
 
-- [Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens](#capitulo-84---clip-(contrastive-language-image-pre-training):-conectando-texto-e-imagens)
+- [Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens](#capitulo-84---clip-contrastive-language-image-pre-training:-conectando-texto-e-imagens)
 
 - [Capítulo 85 – Transformadores – O Estado da Arte em Processamento de Linguagem Natural](#capitulo-85---transformadores---o-estado-da-arte-em-processamento-de-linguagem-natural)
 
@@ -7482,7 +7482,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-49---a-matematica-do-backpropagation-through-time-(bptt)"></div>
+<div id="capitulo-49---a-matematica-do-backpropagation-through-time-bptt"></div>
 
 # Capítulo 49 – A Matemática do Backpropagation Through Time (BPTT)
 
@@ -7887,7 +7887,7 @@ Referências:
 
 
 
-<div id="capitulo-51---arquitetura-de-redes-neurais-long-short-term-memory-(lstm)"></div>
+<div id="capitulo-51---arquitetura-de-redes-neurais-long-short-term-memory-lstm"></div>
 
 # Capítulo 51 – Arquitetura de Redes Neurais Long Short Term Memory (LSTM)
 
@@ -8039,7 +8039,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-52---arquitetura-de-redes-neurais-gated-recurrent-unit-(gru)"></div>
+<div id="capitulo-52---arquitetura-de-redes-neurais-gated-recurrent-unit-gru"></div>
 
 # Capítulo 52 – Arquitetura de Redes Neurais Gated Recurrent Unit (GRU)
 
@@ -8410,7 +8410,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-54---introducao-as-redes-adversarias-generativas-(gans---generative-adversarial-networks)"></div>
+<div id="capitulo-54---introducao-as-redes-adversarias-generativas-gans---generative-adversarial-networks"></div>
 
 # Capítulo 54 – Introdução às Redes Adversárias Generativas (GANs – Generative Adversarial Networks)
 
@@ -8559,7 +8559,7 @@ Referências:
 [Gradient Descent For Machine Learning](https://machinelearningmastery.com/gradient-descent-for-machine-learning/)
 
 
-<div id="capitulo-55---geracao-de-variaveis-aleatorias---uma-das-bases-dos-modelos-generativos-em-gans-(generative-adversarial-networks)"></div>
+<div id="capitulo-55---geracao-de-variaveis-aleatorias---uma-das-bases-dos-modelos-generativos-em-gans-generative-adversarial-networks"></div>
 
 # Capítulo 55 – Geração de Variáveis Aleatórias – Uma das Bases dos Modelos Generativos em GANs (Generative Adversarial Networks)
 
@@ -8738,7 +8738,7 @@ Referências:
 
 
 
-<div id="capitulo-56---modelos-generativos---o-diferencial-das-gans-(generative-adversarial-networks)"></div>
+<div id="capitulo-56---modelos-generativos---o-diferencial-das-gans-generative-adversarial-networks"></div>
 
 # Capítulo 56 – Modelos Generativos – O Diferencial das GANs (Generative Adversarial Networks)
 
@@ -8963,7 +8963,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-57---os-detalhes-matematicos-das-gans-(generative-adversarial-networks)"></div>
+<div id="capitulo-57---os-detalhes-matematicos-das-gans-generative-adversarial-networks"></div>
 
 # Capítulo 57 – Os Detalhes Matemáticos das GANs (Generative Adversarial Networks)
 
@@ -9410,7 +9410,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-60---variational-autoencoders-(vaes)---definicao,-reducao-de-dimensionalidade,-espaco-latente-e-regularizacao"></div>
+<div id="capitulo-60---variational-autoencoders-vaes---definicao,-reducao-de-dimensionalidade,-espaco-latente-e-regularizacao"></div>
 
 # Capítulo 60 – Variational Autoencoders (VAEs) – Definição, Redução de Dimensionalidade, Espaço Latente e Regularização
 
@@ -9621,7 +9621,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-61---a-matematica-dos-variational-autoencoders-(vaes)"></div>
+<div id="capitulo-61---a-matematica-dos-variational-autoencoders-vaes"></div>
 
 # Capítulo 61 – A Matemática dos Variational Autoencoders (VAEs)
 
@@ -10180,7 +10180,7 @@ Referências:
 [Pattern Recognition and Machine Learning](https://www.amazon.com.br/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1482130309&sr=8-1&keywords=Pattern+Recognition+and+Machine+Learning)
 
 
-<div id="capitulo-64---componentes-do-aprendizado-por-reforco-(reinforcement-learning)"></div>
+<div id="capitulo-64---componentes-do-aprendizado-por-reforco-reinforcement-learning"></div>
 
 # Capítulo 64 – Componentes do Aprendizado Por Reforço (Reinforcement Learning)
 
@@ -11476,7 +11476,7 @@ Referências:
 
 [Formação Engenheiro de Machine Learning](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-machine-learning)
 
-<div id="capitulo-76---o-que-e-bert-(bidirectional-encoder-representations-from-transformers)?"></div>
+<div id="capitulo-76---o-que-e-bert-bidirectional-encoder-representations-from-transformers?"></div>
 
 # Capítulo 76 – O Que é BERT (Bidirectional Encoder Representations from Transformers)?
 
@@ -11759,7 +11759,7 @@ Referências:
 [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 
 
-<div id="capitulo-79---conhecendo-o-modelo-gpt-3-(generative-pre-trained-transformer)"></div>
+<div id="capitulo-79---conhecendo-o-modelo-gpt-3-generative-pre-trained-transformer"></div>
 
 # Capítulo 79 – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)
 
@@ -11837,7 +11837,7 @@ Referências:
 [OpenAI](https://openai.com/blog/openai-api/)
 
 
-<div id="capitulo-80---melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-(gpt-1)"></div>
+<div id="capitulo-80---melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-gpt-1"></div>
 
 # Capítulo 80 – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)
 
@@ -11962,7 +11962,7 @@ Referências:
 
 
 
-<div id="capitulo-81---modelos-de-linguagem-como-tarefas-nao-supervisionadas-(gpt-2)"></div>
+<div id="capitulo-81---modelos-de-linguagem-como-tarefas-nao-supervisionadas-gpt-2"></div>
 
 # Capítulo 81 – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)
 
@@ -12245,7 +12245,7 @@ Referências:
 [“Liquid” machine-learning system adapts to changing conditions](https://news.mit.edu/2021/machine-learning-adapts-0128)
 
 
-<div id="capitulo-84---clip-(contrastive-language-image-pre-training):-conectando-texto-e-imagens"></div>
+<div id="capitulo-84---clip-contrastive-language-image-pre-training:-conectando-texto-e-imagens"></div>
 
 # Capítulo 84 – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens
 

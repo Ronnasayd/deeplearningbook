@@ -6,7 +6,7 @@ summary = "# Sumário\n\n"
 with open("data.json") as file:
     chapters = json.loads(file.read())
     for chapter in chapters:
-        ID = unidecode(chapter["title"].replace(" ", "-").lower())
+        ID = unidecode(chapter["title"].replace(" ", "-").replace("(","").replace(")","").lower())
         summary += f"- [{chapter['title']}](#{ID})\n\n"
         text += f'<div id="{ID}"></div>\n\n'
         text += f"# {chapter['title']}\n\n"
